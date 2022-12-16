@@ -27,3 +27,6 @@ tidyr_1.1.3
 tibble_3.1.2 
 ggplot2_3.3.5 
 tidyverse_1.3.0    
+
+
+[![DOI](https://zenodo.org/badge/574879787.svg)](https://zenodo.org/badge/latestdoi/574879787)
